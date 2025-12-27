@@ -1,7 +1,7 @@
-# 📘 program — API REST (Spring Boot + MongoDB)
+# 📘 Posts-Users-api — API REST (Spring Boot + MongoDB)
 
 ## 🔧 Descrição
-**program** é uma API REST em **Spring Boot** que gerencia **Users** e **Posts**, armazenando dados em **MongoDB**. Projeto de exemplo com endpoints para CRUD e busca por título.
+**Posts-Users-api** é uma API REST em **Spring Boot** que gerencia **Users** e **Posts**, armazenando dados em **MongoDB**. Projeto de exemplo com endpoints para CRUD e busca por título.
 
 ---
 
